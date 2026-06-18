@@ -1,0 +1,2557 @@
+{
+  "year": 2026,
+  "holidays": [
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Awal Ramadan",
+      "startDate": 1771459200,
+      "endDate": 1771459200,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774137600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Sultan of Johor's Birthday",
+      "startDate": 1774224000,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774310400,
+      "endDate": 1774310400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Hari Hol Almarhum Sultan Iskandar",
+      "startDate": 1784592000,
+      "endDate": 1784592000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Israk and Mikraj",
+      "startDate": 1768608000,
+      "endDate": 1768608000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Awal Ramadan",
+      "startDate": 1771459200,
+      "endDate": 1771459200,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774137600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Labour Day Holiday",
+      "startDate": 1777766400,
+      "endDate": 1777766400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Hari Raya Haji Holiday",
+      "startDate": 1779926400,
+      "endDate": 1779926400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Sultan of Kedah's Birthday",
+      "startDate": 1783209600,
+      "endDate": 1783209600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2026,
+      "name": "Christmas Holiday",
+      "startDate": 1798329600,
+      "endDate": 1798329600,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Nuzul Al-Quran Holiday",
+      "startDate": 1772928000,
+      "endDate": 1772928000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Arafat Day",
+      "startDate": 1779753600,
+      "endDate": 1779753600,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Hari Raya Haji Holiday",
+      "startDate": 1779926400,
+      "endDate": 1779926400,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Sultan of Kelantan's Birthday",
+      "startDate": 1790640000,
+      "endDate": 1790640000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Sultan of Kelantan's Birthday Holiday",
+      "startDate": 1790726400,
+      "endDate": 1790726400,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-03",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Independence Declaration Day",
+      "startDate": 1771545600,
+      "endDate": 1771545600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Melaka Governor's Birthday",
+      "startDate": 1787529600,
+      "endDate": 1787529600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "YDPB Negeri Sembilan's Birthday",
+      "startDate": 1768348800,
+      "endDate": 1768348800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Israk and Mikraj",
+      "startDate": 1768608000,
+      "endDate": 1768608000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Hari Hol Pahang",
+      "startDate": 1779408000,
+      "endDate": 1779408000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Sultan of Pahang's Birthday",
+      "startDate": 1785456000,
+      "endDate": 1785456000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Georgetown World Heritage City Day",
+      "startDate": 1783382400,
+      "endDate": 1783382400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Penang Governor's Birthday",
+      "startDate": 1783728000,
+      "endDate": 1783728000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Sultan of Perak's Birthday",
+      "startDate": 1793923200,
+      "endDate": 1793923200,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Israk and Mikraj",
+      "startDate": 1768608000,
+      "endDate": 1768608000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Raja Perlis' Birthday",
+      "startDate": 1778976000,
+      "endDate": 1778976000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Raja Perlis' Birthday Holiday",
+      "startDate": 1779062400,
+      "endDate": 1779062400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Hari Raya Haji Holiday",
+      "startDate": 1779926400,
+      "endDate": 1779926400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-09",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Sultan of Selangor's Birthday",
+      "startDate": 1796947200,
+      "endDate": 1796947200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Israk and Mikraj",
+      "startDate": 1768608000,
+      "endDate": 1768608000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Israk and Mikraj Holiday",
+      "startDate": 1768694400,
+      "endDate": 1768694400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Installation of Sultan Terengganu",
+      "startDate": 1772582400,
+      "endDate": 1772582400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Nuzul Al-Quran Holiday",
+      "startDate": 1772928000,
+      "endDate": 1772928000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Sultan of Terengganu's Birthday",
+      "startDate": 1777161600,
+      "endDate": 1777161600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Arafat Day",
+      "startDate": 1779753600,
+      "endDate": 1779753600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Hari Raya Haji Holiday",
+      "startDate": 1779926400,
+      "endDate": 1779926400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Sabah Governor's Birthday",
+      "startDate": 1774828800,
+      "endDate": 1774828800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Good Friday",
+      "startDate": 1775174400,
+      "endDate": 1775174400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Harvest Festival",
+      "startDate": 1780099200,
+      "endDate": 1780099200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Harvest Festival Holiday",
+      "startDate": 1780444800,
+      "endDate": 1780444800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Christmas Eve",
+      "startDate": 1798070400,
+      "endDate": 1798070400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Good Friday",
+      "startDate": 1775174400,
+      "endDate": 1775174400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Gawai",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Gawai Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780444800,
+      "endDate": 1780444800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Hari Gawai Holiday",
+      "startDate": 1780531200,
+      "endDate": 1780531200,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Sarawak Day",
+      "startDate": 1784678400,
+      "endDate": 1784678400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Sarawak Governor's Birthday",
+      "startDate": 1791590400,
+      "endDate": 1791590400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Federal Territory Day",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Federal Territory Day Holiday",
+      "startDate": 1770076800,
+      "endDate": 1770076800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Federal Territory Day",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Federal Territory Day Holiday",
+      "startDate": 1770076800,
+      "endDate": 1770076800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Harvest Festival",
+      "startDate": 1780099200,
+      "endDate": 1780099200,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Harvest Festival Holiday",
+      "startDate": 1780444800,
+      "endDate": 1780444800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "New Year's Day",
+      "startDate": 1767225600,
+      "endDate": 1767225600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Federal Territory Day",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Thaipusam",
+      "startDate": 1769904000,
+      "endDate": 1769904000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Thaipusam Holiday",
+      "startDate": 1769990400,
+      "endDate": 1769990400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Federal Territory Day Holiday",
+      "startDate": 1770076800,
+      "endDate": 1770076800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Chinese New Year",
+      "startDate": 1771286400,
+      "endDate": 1771372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1772841600,
+      "endDate": 1772841600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1773964800,
+      "endDate": 1774051200,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Hari Raya Aidilfitri Holiday",
+      "startDate": 1774137600,
+      "endDate": 1774224000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Labour Day",
+      "startDate": 1777593600,
+      "endDate": 1777593600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Hari Raya Haji",
+      "startDate": 1779840000,
+      "endDate": 1779840000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Wesak Day",
+      "startDate": 1780185600,
+      "endDate": 1780185600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Agong's Birthday",
+      "startDate": 1780272000,
+      "endDate": 1780272000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Wesak Day Holiday",
+      "startDate": 1780358400,
+      "endDate": 1780358400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Awal Muharram",
+      "startDate": 1781654400,
+      "endDate": 1781654400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1787616000,
+      "endDate": 1787616000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Merdeka Day",
+      "startDate": 1788134400,
+      "endDate": 1788134400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Malaysia Day",
+      "startDate": 1789516800,
+      "endDate": 1789516800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Deepavali",
+      "startDate": 1794096000,
+      "endDate": 1794096000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Deepavali Holiday",
+      "startDate": 1794182400,
+      "endDate": 1794182400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2026,
+      "name": "Christmas Day",
+      "startDate": 1798156800,
+      "endDate": 1798156800,
+      "type": "public"
+    }
+  ]
+}
