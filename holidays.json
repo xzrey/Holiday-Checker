@@ -197,7 +197,7 @@
       "state": "MY-02",
       "year": 2026,
       "name": "Hari Raya Aidilfitri",
-      "startDate": 1773964800,
+      "startDate": 1774137600,
       "endDate": 1774137600,
       "type": "public"
     },
@@ -205,14 +205,6 @@
       "state": "MY-02",
       "year": 2026,
       "name": "Labour Day",
-      "startDate": 1777593600,
-      "endDate": 1777593600,
-      "type": "public"
-    },
-    {
-      "state": "MY-02",
-      "year": 2026,
-      "name": "Labour Day Holiday",
       "startDate": 1777766400,
       "endDate": 1777766400,
       "type": "public"
@@ -222,14 +214,6 @@
       "year": 2026,
       "name": "Hari Raya Haji",
       "startDate": 1779840000,
-      "endDate": 1779840000,
-      "type": "public"
-    },
-    {
-      "state": "MY-02",
-      "year": 2026,
-      "name": "Hari Raya Haji Holiday",
-      "startDate": 1779926400,
       "endDate": 1779926400,
       "type": "public"
     },
@@ -325,14 +309,6 @@
       "state": "MY-03",
       "year": 2026,
       "name": "Nuzul Al-Quran",
-      "startDate": 1772841600,
-      "endDate": 1772841600,
-      "type": "public"
-    },
-    {
-      "state": "MY-03",
-      "year": 2026,
-      "name": "Nuzul Al-Quran Holiday",
       "startDate": 1772928000,
       "endDate": 1772928000,
       "type": "public"
@@ -341,7 +317,7 @@
       "state": "MY-03",
       "year": 2026,
       "name": "Hari Raya Aidilfitri",
-      "startDate": 1773964800,
+      "startDate": 1774137600,
       "endDate": 1774224000,
       "type": "public"
     },
@@ -366,14 +342,6 @@
       "year": 2026,
       "name": "Hari Raya Haji",
       "startDate": 1779840000,
-      "endDate": 1779840000,
-      "type": "public"
-    },
-    {
-      "state": "MY-03",
-      "year": 2026,
-      "name": "Hari Raya Haji Holiday",
-      "startDate": 1779926400,
       "endDate": 1779926400,
       "type": "public"
     },
@@ -430,14 +398,6 @@
       "year": 2026,
       "name": "Sultan of Kelantan's Birthday",
       "startDate": 1790640000,
-      "endDate": 1790640000,
-      "type": "public"
-    },
-    {
-      "state": "MY-03",
-      "year": 2026,
-      "name": "Sultan of Kelantan's Birthday Holiday",
-      "startDate": 1790726400,
       "endDate": 1790726400,
       "type": "public"
     },
@@ -1565,14 +1525,6 @@
       "state": "MY-11",
       "year": 2026,
       "name": "Israk and Mikraj",
-      "startDate": 1768608000,
-      "endDate": 1768608000,
-      "type": "public"
-    },
-    {
-      "state": "MY-11",
-      "year": 2026,
-      "name": "Israk and Mikraj Holiday",
       "startDate": 1768694400,
       "endDate": 1768694400,
       "type": "public"
@@ -1597,14 +1549,6 @@
       "state": "MY-11",
       "year": 2026,
       "name": "Nuzul Al-Quran",
-      "startDate": 1772841600,
-      "endDate": 1772841600,
-      "type": "public"
-    },
-    {
-      "state": "MY-11",
-      "year": 2026,
-      "name": "Nuzul Al-Quran Holiday",
       "startDate": 1772928000,
       "endDate": 1772928000,
       "type": "public"
@@ -1613,7 +1557,7 @@
       "state": "MY-11",
       "year": 2026,
       "name": "Hari Raya Aidilfitri",
-      "startDate": 1773964800,
+      "startDate": 1774137600,
       "endDate": 1774224000,
       "type": "public"
     },
@@ -1646,14 +1590,6 @@
       "year": 2026,
       "name": "Hari Raya Haji",
       "startDate": 1779840000,
-      "endDate": 1779840000,
-      "type": "public"
-    },
-    {
-      "state": "MY-11",
-      "year": 2026,
-      "name": "Hari Raya Haji Holiday",
-      "startDate": 1779926400,
       "endDate": 1779926400,
       "type": "public"
     },
