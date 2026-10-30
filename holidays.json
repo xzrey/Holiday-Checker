@@ -1,0 +1,1821 @@
+{
+  "year": 2027,
+  "holidays": [
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Awal Ramadan",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Sultan of Johor's Birthday",
+      "startDate": 1805760000,
+      "endDate": 1805760000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Hari Hol Almarhum Sultan Iskandar",
+      "startDate": 1815177600,
+      "endDate": 1815177600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-01",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Israk and Mikraj",
+      "startDate": 1799193600,
+      "endDate": 1829779200,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800748800,
+      "endDate": 1800748800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1801958400,
+      "endDate": 1801958400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Awal Ramadan",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810598400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812240000,
+      "endDate": 1812240000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Sultan of Kedah's Birthday",
+      "startDate": 1813449600,
+      "endDate": 1813449600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818288000,
+      "endDate": 1818288000,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-02",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Independence Declaration Day",
+      "startDate": 1803081600,
+      "endDate": 1803081600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Melaka Governor's Birthday",
+      "startDate": 1819065600,
+      "endDate": 1819065600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-04",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Israk and Mikraj",
+      "startDate": 1799193600,
+      "endDate": 1829865600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "YDPB Negeri Sembilan's Birthday",
+      "startDate": 1799884800,
+      "endDate": 1799884800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-05",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Hari Hol Pahang",
+      "startDate": 1810944000,
+      "endDate": 1810944000,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Sultan of Pahang's Birthday",
+      "startDate": 1816905600,
+      "endDate": 1816905600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-06",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Georgetown World Heritage City Day",
+      "startDate": 1814918400,
+      "endDate": 1814918400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Penang Governor's Birthday",
+      "startDate": 1815177600,
+      "endDate": 1815177600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-07",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Sultan of Perak's Birthday",
+      "startDate": 1825372800,
+      "endDate": 1825372800,
+      "type": "public"
+    },
+    {
+      "state": "MY-08",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Sultan of Selangor's Birthday",
+      "startDate": 1828483200,
+      "endDate": 1828483200,
+      "type": "public"
+    },
+    {
+      "state": "MY-10",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Israk and Mikraj",
+      "startDate": 1799193600,
+      "endDate": 1829779200,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1801958400,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Installation of Sultan Terengganu",
+      "startDate": 1804118400,
+      "endDate": 1804118400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Sultan of Terengganu's Birthday",
+      "startDate": 1808697600,
+      "endDate": 1808697600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809216000,
+      "endDate": 1809216000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Arafat Day",
+      "startDate": 1810425600,
+      "endDate": 1810425600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810598400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812240000,
+      "endDate": 1812240000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818288000,
+      "endDate": 1818288000,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-11",
+      "year": 2027,
+      "name": "Christmas Holiday",
+      "startDate": 1829779200,
+      "endDate": 1829779200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Good Friday",
+      "startDate": 1806019200,
+      "endDate": 1806019200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Sabah Governor's Birthday",
+      "startDate": 1806364800,
+      "endDate": 1806364800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Harvest Festival",
+      "startDate": 1811721600,
+      "endDate": 1811721600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Christmas Eve",
+      "startDate": 1829606400,
+      "endDate": 1829606400,
+      "type": "public"
+    },
+    {
+      "state": "MY-12",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Good Friday",
+      "startDate": 1806019200,
+      "endDate": 1806019200,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Hari Gawai",
+      "startDate": 1811808000,
+      "endDate": 1811894400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Sarawak Day",
+      "startDate": 1816214400,
+      "endDate": 1816214400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Sarawak Governor's Birthday",
+      "startDate": 1823040000,
+      "endDate": 1823040000,
+      "type": "public"
+    },
+    {
+      "state": "MY-13",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Federal Territory Day",
+      "startDate": 1801440000,
+      "endDate": 1801440000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-14",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Federal Territory Day",
+      "startDate": 1801440000,
+      "endDate": 1801440000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Harvest Festival",
+      "startDate": 1811721600,
+      "endDate": 1811721600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-15",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "New Year's Day",
+      "startDate": 1798761600,
+      "endDate": 1798761600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Thaipusam",
+      "startDate": 1800576000,
+      "endDate": 1800576000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Federal Territory Day",
+      "startDate": 1801440000,
+      "endDate": 1801440000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Chinese New Year",
+      "startDate": 1802044800,
+      "endDate": 1802044800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Nuzul Al-Quran",
+      "startDate": 1803427200,
+      "endDate": 1803427200,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Hari Raya Aidilfitri",
+      "startDate": 1804636800,
+      "endDate": 1804723200,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Labour Day",
+      "startDate": 1809129600,
+      "endDate": 1809129600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Hari Raya Haji",
+      "startDate": 1810512000,
+      "endDate": 1810512000,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Wesak Day",
+      "startDate": 1810771200,
+      "endDate": 1810771200,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Agong's Birthday",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Awal Muharram",
+      "startDate": 1812326400,
+      "endDate": 1812326400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Prophet Muhammad's Birthday",
+      "startDate": 1818374400,
+      "endDate": 1818374400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Merdeka Day",
+      "startDate": 1819670400,
+      "endDate": 1819670400,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Malaysia Day",
+      "startDate": 1821052800,
+      "endDate": 1821052800,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Deepavali",
+      "startDate": 1824681600,
+      "endDate": 1824681600,
+      "type": "public"
+    },
+    {
+      "state": "MY-16",
+      "year": 2027,
+      "name": "Christmas Day",
+      "startDate": 1829692800,
+      "endDate": 1829692800,
+      "type": "public"
+    }
+  ]
+}
